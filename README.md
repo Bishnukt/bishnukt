@@ -2,7 +2,7 @@
 <div id="gif" align="center">
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
 
-<h2>I am Bishnu Kant Thakur 🤝</h2>
+<h2>I am Bishnu Thakur 🤝</h2>
 <b>I'm an undergraduate student pursuing Bachelors of Science(B.Sc):Major in Computer Science.</b>
 </div>
 
