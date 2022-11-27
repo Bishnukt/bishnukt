@@ -3,9 +3,10 @@
 <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
 
 <h2>I am Bishnu Thakur 🤝</h2>
-<b>I'm an undergraduate student pursuing Bachelors of Science(B.Sc):Major in Computer Science.</b>
+<b>An undergraduate student pursuing Bachelors of Science(B.Sc):Major in Computer Science.</b></br>
 </div>
-
+Tech Enthusiast, love learning and deep diving into tech related stuffs. Always excited about learning and experimenting things.
+When it comes to specific choices into CS, I love programming and developing. I love linux and love using linux terminal for every other work. Highly interested in Computer Networking. I love uncovering the extra layer of abstraction and always excited to learn how deep underlaying technology is working under the hood.
 
 <!--
 **Bishnukt/bishnukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
