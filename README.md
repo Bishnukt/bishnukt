@@ -8,6 +8,8 @@
 Tech Enthusiast, love learning and deep diving into tech related stuffs. Always excited about learning and experimenting things.
 When it comes to specific choices into CS, I love programming and developing. I love linux and love using linux terminal for every other work. Highly interested in Computer Networking. I love uncovering the extra layer of abstraction and always excited to learn how deep underlaying technology is working under the hood.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishnukt&theme=tokyonight)
+
 <!--
 **Bishnukt/bishnukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
